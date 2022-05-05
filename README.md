@@ -4,4 +4,4 @@
 
 # 京东挂机
 自助登录挂机：
-http://47167111ko.zicp.vip:31648/login
+http://zzhjj.dynv6.net/login
