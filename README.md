@@ -4,4 +4,4 @@
 
 # 京东挂机
 自助登录挂机：
-http://zzhjj.dynv6.net/login
+http://zzhjj.dynv6.net:5700/login
